@@ -1,6 +1,7 @@
 You can use this web app to predict HDB prices. Data is updated as of 2021. This is previously hosted on Heroku but heroku no longer offer free hosting services. So you have to run the app locally by running the manage.py file. 
 
-The data is not mine. Sourced from singstat.gov
+Sourced from singstat.gov
+
 
 Note: 
 
