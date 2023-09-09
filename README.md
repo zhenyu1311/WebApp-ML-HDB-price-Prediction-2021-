@@ -1,4 +1,6 @@
-You can use this web app to predict HDB prices. Data is updated as of 2021. This is previously hosted on Heroku but Heroku no longer offers free hosting services. So you have to run the app locally by running the manage.py file. 
+You can use this web app to predict HDB prices. Data is updated as of 2021. 
+Previously hosted on Heroku , Free Liscence Expired. 
+Can only be ran locally as of now before i find rehost it somewhere else.
 
 
 
